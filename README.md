@@ -3,7 +3,7 @@
 Convert a **Xeovo AmneziaWG / WireGuard `.conf` file** into a single  
 **`AmneziaVPN.backup`** file containing **all Xeovo locations**, ready for instant import into AmneziaVPN.
 
-No more importing configs one by one — everything is generated automatically.
+No more importing configs one by one - everything is generated automatically.
 
 ---
 
